@@ -2,6 +2,11 @@
 
 Welcome to My Example Website. This is a friendly message. Or maybe a professional one. It gives an idea of what is on this page.
 
+* [Contact Info](./#contact-info)
+* [Office Hours](./##office-hours-subject-to-change)
+* [Psychiatric Emergency Services](./#psychiatric-emergency-services)
+* [Hotlines and Support Resources](./#hotlines-and-support-resources)
+
 ## Contact Info
 
 **Sandra Wong, PhD\
