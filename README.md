@@ -1,4 +1,6 @@
-# 👋 Welcome to My Example Website
+# 👋 Hi, I'm Sandra Wong
+
+Welcome to My Example Website. This is a friendly message. Or maybe a professional one. It gives an idea of what is on this page.
 
 ## Contact Info
 
