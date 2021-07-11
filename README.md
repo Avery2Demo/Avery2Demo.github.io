@@ -11,9 +11,7 @@ School Psychologist**
 * 📞 (123) 456-7890
 * 💬 (321) 654-0987
 
-Office Hours (subject to change):
-
-I'm also available by appointment. Contact me be **XYZ**.
+## Office Hours (subject to change):
 
 | DAY       | HOURS                                       |
 | --------- | ------------------------------------------- |
@@ -22,6 +20,8 @@ I'm also available by appointment. Contact me be **XYZ**.
 | Wednesday | 1:00 pm to  3:00 pm<br />8:00 pm to 9:00 pm |
 | Thursday  | 1:00 pm to  3:00 pm<br />8:00 pm to 9:00 pm |
 | Friday    | 1:00 pm to  3:00 pm<br />8:00 pm to 9:00 pm |
+
+I'm also available by appointment. Contact me be **XYZ**.
 
 ## PSYCHIATRIC EMERGENCY SERVICES
 
